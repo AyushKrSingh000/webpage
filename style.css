@@ -1,0 +1,94 @@
+/*
+selector{
+    property: value;
+}
+*/
+body{
+    margin :0px;
+    padding :0px;
+}
+#para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.pa{
+    color: red;
+}
+#button{
+    margin-top: 0px;
+    list-style: none;
+    display: flex;
+    border: 2px solid black;
+
+    border-radius: 20px;
+    /* background-color:lightgrey; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content:  center;
+    color: green;
+    background-color: aqua;
+/* background-image: url(01.png); */
+/* background-repeat: no-repeat ; */
+/* background: red url(01.png),no-repeat; */
+    
+}
+#button li{
+    padding-left: 100px;
+    
+    font-size: 20px;  
+}
+
+#button1{
+    margin-top: 0px;
+    list-style: none;
+    display: flex;
+    border: 2px solid black;
+
+    border-radius: 20px;
+    /* background-color:lightgrey; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content:  center;
+    color: green;
+    background-color: aqua;
+/* background-image: url(01.png); */
+/* background-repeat: no-repeat ; */
+/* background: red url(01.png),no-repeat; */
+    
+}
+#button1 li{
+    
+    
+    font-size: 20px;  
+}
+#button2{
+    margin-top: 0px;
+    list-style: none;
+    display: flex;
+    border: 2px solid black;
+    margin-right: 0px;
+    border-radius: 20px;
+    /* background-color:lightgrey; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content:  center;
+    color: green;
+    background-color: aqua;
+   
+/* background-image: url(01.png); */
+/* background-repeat: no-repeat ; */
+/* background: red url(01.png),no-repeat; */
+    
+}
+#button2 li{
+    
+    box-sizing: border-box;
+    font-size: 20px;  
+}
+#container{
+    
+    
+    
+    
+    
+}
